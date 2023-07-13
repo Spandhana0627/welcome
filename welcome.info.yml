@@ -1,0 +1,5 @@
+name: Drupal9 Module
+type: module
+description: 'Drupal 9 welcome message'
+package: welcome
+core_version_requirement: ^8 || ^9
